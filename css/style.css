@@ -16,3 +16,175 @@ h2 {
   line-height: 30px;
 }
 
+.product h2 {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.main-header {
+  margin-bottom: 60px;
+}
+
+.container {
+  width: 940px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.main-navigation {
+  width: 780px;
+  float: left;
+}
+
+.user-block {
+  width: 140px;
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.index-logo {
+  width: 368px;
+  height: 204px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 25px;
+}
+
+.features-item {
+  float: left;
+  width: 300px;
+  margin-right: 20px;
+  margin-bottom: 60px;
+}
+
+.features-item:last-child {
+  margin-right: 0;
+}
+
+.index-content {
+  padding: 50px 80px;
+  margin-bottom: 35px;
+}
+
+.index-content-left {
+  float: left;
+  width: 380px;
+}
+
+.index-content-right {
+  float: right;
+  width: 300px;
+}
+
+.main-footer {
+  margin-top: 65px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.footer-contacts {
+  float: left;
+  width: 320px;
+  margin-right: 60px;
+}
+
+.footer-social {
+  float: left;
+  width: 180px;
+}
+
+.footer-copyright {
+  float: right;
+  width: 160px;
+}
+
+.catalog-header {
+  margin-bottom: 54px;
+}
+
+.navigation {
+  float: left;
+  width: 300px;
+  margin-right: 620px;
+  margin-bottom: 56px;
+}
+
+.catalog-content {
+  margin-bottom: 45px;
+}
+
+.sidebar {
+  float: left;
+  width: 220px;
+  margin-right: 20px;
+}
+
+.manufacturer {
+  margin-bottom: 53px;
+}
+
+.products-content {
+  float: right;
+  width: 700px;
+}
+
+.product {
+  float: left;
+  width: 220px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.product:nth-child(4),
+.product:nth-child(5),
+.product:nth-child(6) {
+  margin-bottom: 0;
+}
+
+.product:nth-child(3n) {
+  margin-right: 0;
+}
+
+.pages-navigation {
+  float: left;
+  width: 193px;
+  margin-right: 507px;
+  margin-left: 240px;
+}
+
+.catalog-footer {
+  margin-top: 50px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.item-navigation {
+  float: left;
+  width: 630px;
+  margin-bottom: 55px;
+}
+
+.product-images {
+  float: left;
+  width: 460px;
+}
+
+.product-info {
+  float: right;
+  width: 390px;
+  padding-top: 20px;
+}
+
+.price {
+  float: left;
+  width: 230px;
+  margin-right: 160px;
+  margin-top: 38px;
+  margin-bottom: 67px;
+}
+
